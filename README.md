@@ -123,6 +123,7 @@ CNN analyzes spectrogram features → Calculates probability score
 #### **4️⃣ Results & Action**
 
 **🎼 If Human-Made:**
+[Watch Demo Video](./humansong.mp4)
 
 ```
 Classification Result: HUMAN ✓
