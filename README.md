@@ -101,6 +101,8 @@ When you upload audio created by artificial intelligence (music generation model
 ## How the Detection Works
 
 ### Step-by-Step Workflow
+<img width="1885" height="902" alt="image" src="https://github.com/user-attachments/assets/d5539a68-ac43-47b1-852b-56c770cb42dd" />
+
 
 #### **1️⃣ Upload Your Audio**
 
@@ -123,7 +125,8 @@ CNN analyzes spectrogram features → Calculates probability score
 #### **4️⃣ Results & Action**
 
 **🎼 If Human-Made:**
-[Watch Demo Video](./humansong.mp4)
+<img width="1895" height="908" alt="image" src="https://github.com/user-attachments/assets/d78a7ab9-3ece-473c-a74d-b9dcde81b829" />
+
 
 ```
 Classification Result: HUMAN ✓
@@ -136,6 +139,8 @@ Session ends
 ```
 
 **🤖 If AI-Generated:**
+<img width="1906" height="909" alt="image" src="https://github.com/user-attachments/assets/ea4539c5-23e4-467d-a952-b300cf3d03df" />
+
 
 ```
 Classification Result: AI-GENERATED ⚙️
