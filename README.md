@@ -312,4 +312,4 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 ## 📧 Support
 
-For questions or issues, please open an issue on GitHub or contact the development team.
+For questions or issues, please open an issue on GitHub or contact me.
