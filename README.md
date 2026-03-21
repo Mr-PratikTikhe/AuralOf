@@ -18,7 +18,7 @@
 
 **AuralOf** is a full-stack audio analysis platform that identifies whether music is **Human-Made** or **AI-Generated** using advanced deep learning and audio fingerprinting technologies. Beyond classification, it provides intelligent song recommendations by finding the most similar real-world tracks to any uploaded audio.
 
-At its core, AuralOf combines:
+At its core, AuralOf combines :
 
 - **Deep Learning Classification**: A custom CNN model trained on Mel spectrograms to distinguish human compositions from AI-generated music
 - **Similarity Search Engine**: Advanced audio embeddings combined with FAISS technology to find the top $k$ most similar human-made tracks
